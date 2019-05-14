@@ -4,11 +4,13 @@ Toy example on how to use the mouse to draw stuff in python.
 
 ### What it does? 
 
-<kbd>
 <p align="center">
+
+<kbd>
 <img src="https://github.com/rockNroll87q/pyDrawing/blob/master/drawing_demo.gif" width="306" height="191" />  
-</p>
 </kbd>
+
+</p>
 
 ### How to use it
 
