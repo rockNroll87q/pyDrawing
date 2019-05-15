@@ -8,7 +8,7 @@ If you prefer to use the `builder` version of Psychopy, take a look to this [lin
 <p align="center">
 
 <kbd>
-<img src="https://github.com/rockNroll87q/pyDrawing/blob/master/drawing_demo_2.gif" width="306" height="191" />  
+<img src="https://github.com/rockNroll87q/pyDrawing/blob/master/drawing_demo_2.gif" width="400" height="400" />  
 </kbd>
 
 </p>
