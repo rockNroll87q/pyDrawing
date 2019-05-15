@@ -1,6 +1,7 @@
 # pyDrawing
 
 Toy example on how to use the mouse to draw stuff in python.
+If you prefer to use the `builder` version of Psychopy, take a look to this [link](https://gitlab.pavlovia.org/rockNroll/demo_drawing) for the code and this [link](https://pavlovia.org/run/rockNroll/demo_drawing/html/) for an online demo.
 
 ### What it does? 
 
