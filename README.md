@@ -1,3 +1,5 @@
+--> **THIS CODE IS NOW IMPLEMENTED IN PSYCHOPY BUILDER!!** <--
+
 # pyDrawing
 
 Toy example on how to use the mouse to draw stuff in python.
